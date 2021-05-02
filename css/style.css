@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #fff;
+}
+
+.container {
+  color: #e24646;
+  padding: 40px 20px;
+}
+.container nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.container .logo {
+  padding: 0;
+  margin: 0;
+  margin-left: 1em;
+}
+.container ul {
+  text-decoration: none;
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+}
+.container li {
+  margin-right: 1em;
+}
+
+/*# sourceMappingURL=style.css.map */
